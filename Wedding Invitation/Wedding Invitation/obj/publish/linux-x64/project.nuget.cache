@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aiZDSOrCM1w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\Wedding Invitation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geghov\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.7\\microsoft.netcore.app.host.linux-x64.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

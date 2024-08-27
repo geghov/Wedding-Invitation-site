@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Wedding_Invitation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Wedding_Invitation.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\MainCSS.css",
+      "PackagePath": "staticwebassets\\css\\MainCSS.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\responsive-clock.css",
+      "PackagePath": "staticwebassets\\css\\responsive-clock.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\AmsterdamOne.ttf",
+      "PackagePath": "staticwebassets\\fonts\\AmsterdamOne.ttf"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\Avart.svg",
+      "PackagePath": "staticwebassets\\images\\Avart.svg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\Dimavorum.svg",
+      "PackagePath": "staticwebassets\\images\\Dimavorum.svg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\Ekexeci.jpg",
+      "PackagePath": "staticwebassets\\images\\Ekexeci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\Handes.svg",
+      "PackagePath": "staticwebassets\\images\\Handes.svg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\Psakadrutyun.svg",
+      "PackagePath": "staticwebassets\\images\\Psakadrutyun.svg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\RS1.jpg",
+      "PackagePath": "staticwebassets\\images\\RS1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\RS1_old.jpg",
+      "PackagePath": "staticwebassets\\images\\RS1_old.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\RS2.jpg",
+      "PackagePath": "staticwebassets\\images\\RS2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\RS2_old.jpg",
+      "PackagePath": "staticwebassets\\images\\RS2_old.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\RS3.jpg",
+      "PackagePath": "staticwebassets\\images\\RS3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\RS3_old.jpg",
+      "PackagePath": "staticwebassets\\images\\RS3_old.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\Tort.svg",
+      "PackagePath": "staticwebassets\\images\\Tort.svg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\bg_prv.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_prv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\fprint.png",
+      "PackagePath": "staticwebassets\\images\\fprint.png"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\github-logo.png",
+      "PackagePath": "staticwebassets\\images\\github-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\loc.png",
+      "PackagePath": "staticwebassets\\images\\loc.png"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\og.jpg",
+      "PackagePath": "staticwebassets\\images\\og.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\images\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\clock.js",
+      "PackagePath": "staticwebassets\\js\\clock.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\js\\google_map.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\magnific-popup-options.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup-options.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\js\\simplyCountdown.js",
+      "PackagePath": "staticwebassets\\js\\simplyCountdown.js"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\_bootstrap-compass.scss",
+      "PackagePath": "staticwebassets\\sass\\_bootstrap-compass.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\_bootstrap-mincer.scss",
+      "PackagePath": "staticwebassets\\sass\\_bootstrap-mincer.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\_bootstrap-sprockets.scss",
+      "PackagePath": "staticwebassets\\sass\\_bootstrap-sprockets.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_alerts.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_badges.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_button-groups.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_button-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_component-animations.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_component-animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_glyphicons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_glyphicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_input-groups.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_input-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_labels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_modals.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_navs.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_normalize.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_pager.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_pager.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_panels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_popovers.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_progress-bars.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_progress-bars.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_responsive-embed.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_responsive-embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_responsive-utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_responsive-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_scaffolding.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_scaffolding.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_theme.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_thumbnails.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_thumbnails.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\_wells.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_wells.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_alerts.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_center-block.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_center-block.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_hide-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_hide-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_opacity.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_opacity.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_panels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_progress-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_reset-filter.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_reset-filter.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_responsive-visibility.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_responsive-visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_tab-focus.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_tab-focus.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_text-overflow.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_text-overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\geghov\\Desktop\\Work\\my\\My Codes\\C#\\Blazor\\Wedding Invitation\\Wedding Invitation\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Wedding_Invitation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Wedding_Invitation.props",
+      "PackagePath": "build\\Wedding_Invitation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Wedding_Invitation.props",
+      "PackagePath": "buildMultiTargeting\\Wedding_Invitation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Wedding_Invitation.props",
+      "PackagePath": "buildTransitive\\Wedding_Invitation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,7 @@
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Release\net8.0\linux-x64\PubTmp\Out\Wedding_Invitation
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Release\net8.0\linux-x64\PubTmp\Out\Wedding_Invitation.dll
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Release\net8.0\linux-x64\PubTmp\Out\Wedding_Invitation.deps.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Release\net8.0\linux-x64\PubTmp\Out\Wedding_Invitation.runtimeconfig.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Release\net8.0\linux-x64\PubTmp\Out\Wedding_Invitation.pdb

@@ -1,0 +1,29 @@
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\bin\Debug\net8.0\appsettings.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\bin\Debug\net8.0\Wedding_Invitation.staticwebassets.runtime.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\bin\Debug\net8.0\Wedding_Invitation.exe
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\bin\Debug\net8.0\Wedding_Invitation.deps.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\bin\Debug\net8.0\Wedding_Invitation.runtimeconfig.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\bin\Debug\net8.0\Wedding_Invitation.dll
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\bin\Debug\net8.0\Wedding_Invitation.pdb
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\Wedding Invitation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\Wedding Invitation.AssemblyInfoInputs.cache
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\Wedding Invitation.AssemblyInfo.cs
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\Wedding Invitation.csproj.CoreCompileInputs.cache
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\Wedding_Invitation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\staticwebassets\msbuild.Wedding_Invitation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\staticwebassets\msbuild.build.Wedding_Invitation.props
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Wedding_Invitation.props
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Wedding_Invitation.props
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\scopedcss\bundle\Wedding_Invitation.styles.css
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\scopedcss\projectbundle\Wedding_Invitation.bundle.scp.css
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\Wedding_Invitation.dll
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\refint\Wedding_Invitation.dll
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\Wedding_Invitation.pdb
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\Wedding Invitation.genruntimeconfig.cache
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\ref\Wedding_Invitation.dll
+C:\Users\geghov\Desktop\Work\my\My Codes\C#\Blazor\Wedding Invitation\Wedding Invitation\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
